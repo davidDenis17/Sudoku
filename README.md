@@ -26,6 +26,10 @@ Launch the Game and Choose Difficulty: <br/>
 Play It: <br/>
 <img src="https://i.imgur.com/qQE9hYz.png" height="80%" width="80%" alt="Minsweeper Walkthrough Steps"/>
 
+<p align="center">
+Win Screen: <br/>
+<img src="https://i.imgur.com/JzKRsGZ.png" height="80%" width="80%" alt="Minsweeper Walkthrough Steps"/>
+
 </p>
 
 <!--
