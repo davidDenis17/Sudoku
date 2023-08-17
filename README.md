@@ -4,6 +4,7 @@
 
 <h2>Description</h2>
 Project consists of a simple Sudoku Game implementation where the user can choose the difficulty of the match.
+(Team Project) 
 <br />
 
 
