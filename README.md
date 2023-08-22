@@ -21,15 +21,15 @@ Project consists of a simple Sudoku Game implementation where the user can choos
 
 <p align="center">
 Launch the Game and Choose Difficulty: <br/>
-<img src="https://i.imgur.com/Y5rvfsS.png" height="80%" width="80%" alt="Minsweeper Walkthrough Steps"/>
+<img src="https://i.imgur.com/Y5rvfsS.png" height="80%" width="80%" alt="Sudoku Walkthrough Steps"/>
 
 <p align="center">
 Play It: <br/>
-<img src="https://i.imgur.com/qQE9hYz.png" height="80%" width="80%" alt="Minsweeper Walkthrough Steps"/>
+<img src="https://i.imgur.com/qQE9hYz.png" height="80%" width="80%" alt="Sudoku Walkthrough Steps"/>
 
 <p align="center">
 Win Screen: <br/>
-<img src="https://i.imgur.com/JzKRsGZ.png" height="80%" width="80%" alt="Minsweeper Walkthrough Steps"/>
+<img src="https://i.imgur.com/JzKRsGZ.png" height="80%" width="80%" alt="Sudoku Walkthrough Steps"/>
 
 </p>
 
